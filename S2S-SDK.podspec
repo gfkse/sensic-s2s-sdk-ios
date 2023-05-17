@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
     
     
     s.subspec 'ExoPlayer' do |exoplayer|
+     exoplayer.dependency 'GoogleAds-IMA-iOS-SDK'
    end
     s.subspec 'bitmovin' do |bitmovin|
     bitmovin.dependency 'BitmovinPlayer'
