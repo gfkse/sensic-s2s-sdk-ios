@@ -7,10 +7,5 @@ Pod::Spec.new do |s|
     s.source            = { :http => 'https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/testing/1/s2s_sdk_ios_1.zip'}
     s.platforms = { :ios => "12.0" }
     s.ios.vendored_frameworks = 's2s_sdk_ios.xcframework'
-    s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.1' }
-    
-    spec.subspec 'bitmovin' do |bitmovin|
-    bitmovin.dependency 'BitmovinPlayer'
-  end
-    
+    s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.1' } 
 end
