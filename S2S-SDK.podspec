@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
     googleIMA.dependency 'GoogleAds-IMA-iOS-SDK'
    end
     
-    s.dependency 'PodEmpty'
+    s.dependency ''
 
 end
