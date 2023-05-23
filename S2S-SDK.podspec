@@ -9,17 +9,4 @@ Pod::Spec.new do |s|
     s.ios.vendored_frameworks = 's2s_sdk_ios.xcframework'
     s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.1' } 
     
-    
-    s.subspec 'ExoPlayer' do |exoplayer|
-     exoplayer.dependency 'GoogleAds-IMA-iOS-SDK'
-   end
-    s.subspec 'bitmovin' do |bitmovin|
-    bitmovin.dependency 'BitmovinPlayer'
-   end
-    
-    s.subspec 'googleIMA' do |googleIMA|
-    googleIMA.dependency 'GoogleAds-IMA-iOS-SDK'
-   end
-    
-
 end
