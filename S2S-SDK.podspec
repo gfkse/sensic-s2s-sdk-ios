@@ -10,9 +10,7 @@ Pod::Spec.new do |s|
     s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.1' } 
 
     s.subspec 'Bitmovin' do |bitmovin|
-     bitmovin.dependency 'BitmovinPlayer' 
-     bitmovin.source_files = 's2s_sdk_ios/s2s-sdk-ios/**'
-     bitmovin.exclude_files = 's2s_sdk_ios/s2s-sdk-ios/S2SExtension/**'
+     bitmovin.dependency 'BitmovinPlayer'
     end
     
 end
