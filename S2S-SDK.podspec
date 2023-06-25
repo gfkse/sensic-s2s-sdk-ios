@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     s.subspec 'Bitmovin' do |bitmovin|
      bitmovin.dependency 'BitmovinPlayer'
      bitmovin.source_files = 's2s-sdk-ios/**/*.swift'
-     bitmovin.exclude_files = 's2s-sdk-ios/S2SExtension/*.swift'
+     
     end
     
 end
