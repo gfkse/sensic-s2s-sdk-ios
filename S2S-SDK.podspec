@@ -11,9 +11,7 @@ Pod::Spec.new do |s|
 
     s.subspec 'Bitmovin' do |bitmovin|
      bitmovin.dependency 'BitmovinPlayer'
-      bitmovin.resource_bundles = {
-    's2s_sdk_ios' => 's2s-sdk-ios/**/*.{swift,h,m,mm}'
-  }
+     bitmovin.public_header_files = 's2s-sdk-ios/**/*.swift'
      
     end
     
