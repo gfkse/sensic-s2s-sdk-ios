@@ -13,5 +13,8 @@ Pod::Spec.new do |s|
      bitmovin.dependency 'BitmovinPlayer'
      
     end
-    
+    s.subspec 'googleIMA' do |ima|
+     ima.dependency 'GoogleAds-IMA-iOS-SDK'
+     
+    end
 end
