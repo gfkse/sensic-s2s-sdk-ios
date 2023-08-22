@@ -8,4 +8,14 @@ Pod::Spec.new do |s|
     s.platforms = { :ios => "12.0" }
     s.ios.vendored_frameworks = 's2s_sdk_ios.xcframework'
     s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.1' } 
+
+    s.subspec 'Bitmovin' do |bitmovin|
+     bitmovin.dependency 'BitmovinPlayer'
+     bitmovin.vendored_framework = 's2s_sdk_ios_bitmovin.xcframework'
+    end
+
+    s.subspec 'AVPlayer' do |avplayer|
+     avplayer.dependency 'GoogleAds-IMA-iOS-SDK'
+     avplayer.vendored_framework = 's2s_sdk_ios_avplayer.xcframework'
+    end
 end
