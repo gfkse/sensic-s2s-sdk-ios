@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
     s.subspec 'AVPlayer-GoogleAds' do |avplayer|
      avplayer.dependency 'GoogleAds-IMA-iOS-SDK'
-     avplayer.vendored_framework = 's2s_sdk_ios_avplayer.xcframework'
+     avplayer.vendored_framework = 's2s_sdk_ios_avplayer_googleAds.xcframework'
     end
 
      s.subspec 'AgentOnly' do |agent|
