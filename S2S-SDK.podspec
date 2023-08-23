@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
     end
 
      s.subspec 'AgentOnly' do |agent|
-     agnet.vendored_framework = 's2s_sdk_ios_agent_only.xcframework'
+     agent.vendored_framework = 's2s_sdk_ios_agent_only.xcframework'
      end
 
   
