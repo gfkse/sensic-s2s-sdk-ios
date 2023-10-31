@@ -10,19 +10,19 @@ Pod::Spec.new do |s|
     s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.1' } 
     s.dependency 'Sentry'
 
-   # s.subspec 'Bitmovin' do |bitmovin|
-    # bitmovin.dependency 'BitmovinPlayer'
-    # bitmovin.vendored_framework = 's2s_sdk_ios_bitmovin.xcframework'
-    #end
+    s.subspec 'Bitmovin' do |bitmovin|
+    bitmovin.dependency 'BitmovinPlayer'
+    bitmovin.vendored_framework = 's2s_sdk_ios_bitmovin.xcframework'
+    end
 
-    #s.subspec 'AVPlayer-GoogleAds' do |avplayer|
-    # avplayer.dependency 'GoogleAds-IMA-iOS-SDK'
-    # avplayer.vendored_framework = 's2s_sdk_ios_avplayer_googleAds.xcframework'
-    #end
+    s.subspec 'AVPlayer-GoogleAds' do |avplayer|
+    avplayer.dependency 'GoogleAds-IMA-iOS-SDK'
+    avplayer.vendored_framework = 's2s_sdk_ios_avplayer_googleAds.xcframework'
+    end
 
-     #s.subspec 'AgentOnly' do |agent|
-     #agent.vendored_framework = 's2s_sdk_ios_agent_only.xcframework'
-     #end
+    s.subspec 'AgentOnly' do |agent|
+    agent.vendored_framework = 's2s_sdk_ios_agent_only.xcframework'
+    end
 
   
 end
