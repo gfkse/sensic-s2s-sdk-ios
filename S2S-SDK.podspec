@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.platforms = { :ios => "13.0" }
     s.ios.vendored_frameworks = 's2s_sdk_ios.xcframework'
     s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.1' } 
-    s.dependency 'Sentry'
+    s.dependency 'Sentry' , '8.17.0'
 
     s.subspec 'Bitmovin' do |bitmovin|
     bitmovin.dependency 'BitmovinPlayer'
