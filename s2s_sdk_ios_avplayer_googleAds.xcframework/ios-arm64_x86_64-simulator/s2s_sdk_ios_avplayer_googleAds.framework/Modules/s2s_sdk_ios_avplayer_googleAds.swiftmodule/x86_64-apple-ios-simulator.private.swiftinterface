@@ -1,0 +1,181 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name s2s_sdk_ios_avplayer_googleAds
+import AVFoundation
+import AVKit
+import AdSupport
+import AppTrackingTransparency
+import Darwin
+import Foundation
+import GoogleInteractiveMediaAds
+import OSLog
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os
+@_hasMissingDesignatedInitializers public class SensicSentrySDK {
+  public static func activate()
+  public static func capture(message: Swift.String)
+  @objc deinit
+}
+extension Swift.Array where Element == Swift.UInt8 {
+  public func toHexString() -> Swift.String
+}
+@available(iOS 10.0, *)
+@objc public class S2SConfig : ObjectiveC.NSObject {
+  @objc public init(mediaId: Swift.String, url: Swift.String, optIn: Swift.Bool = true, extId: [Swift.String : Swift.String]? = nil, crashReporting: Swift.Bool = false)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class SensicLogger {
+  @objc deinit
+}
+public enum S2SAgentError : Swift.Error {
+  case invalidParam(Swift.String)
+}
+@available(*, deprecated)
+public typealias VideoPositionCallback = () -> Swift.Int64
+public typealias StreamPositionCallback = () -> Swift.Int64
+@objc final public class S2SAgent : ObjectiveC.NSObject {
+  @objc deinit
+  @objc convenience public init(config: s2s_sdk_ios_avplayer_googleAds.S2SConfig) throws
+  @objc convenience public init(config: s2s_sdk_ios_avplayer_googleAds.S2SConfig, streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, crashReporting: Swift.Bool = false) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, extId: [Swift.String : Swift.String], crashReporting: Swift.Bool = false) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, extId: [Swift.String : Swift.String]) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, optIn: Swift.Bool, crashReporting: Swift.Bool = false) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, optIn: Swift.Bool) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, optIn: Swift.Bool, extId: [Swift.String : Swift.String], crashReporting: Swift.Bool = false) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, optIn: Swift.Bool, extId: [Swift.String : Swift.String]) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, crashReporting: Swift.Bool = false, streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, extId: [Swift.String : Swift.String], crashReporting: Swift.Bool = false, streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, extId: [Swift.String : Swift.String], streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, optIn: Swift.Bool, crashReporting: Swift.Bool = false, streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, optIn: Swift.Bool, streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated, message: "Please use the method with the 'config' parameter instead")
+  public init(configUrl: Swift.String, mediaId: Swift.String, optIn: Swift.Bool?, extId: [Swift.String : Swift.String]?, crashReporting: Swift.Bool = false, streamPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.StreamPositionCallback) throws
+  @available(*, deprecated)
+  @objc convenience public init(configUrl: Swift.String, mediaId: Swift.String, videoPositionCallback: @escaping s2s_sdk_ios_avplayer_googleAds.VideoPositionCallback = { return 0 }) throws
+  @objc final public func flushStorageQueue()
+  @discardableResult
+  @objc final public func impression(contentId: Swift.String, customParams: [Swift.String : Swift.String]? = nil) -> [Swift.String : Swift.Bool]
+  @available(*, deprecated)
+  @discardableResult
+  @objc final public func playVOD(contentId: Swift.String, videoId: Swift.String, screen: Swift.String, volume: Swift.String, customParams: [Swift.String : Swift.String]) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func playStreamOnDemand(contentId: Swift.String, streamId: Swift.String, customParams: [Swift.String : Swift.String]) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func playStreamOnDemand(contentId: Swift.String, streamId: Swift.String, options: [Swift.String : Swift.String], customParams: [Swift.String : Swift.String]) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @available(*, deprecated)
+  @objc final public func playLive(contentId: Swift.String, contentStart: Swift.String, videoOffset: Swift.Int, videoId: Swift.String, screen: Swift.String, volume: Swift.String, customParams: [Swift.String : Swift.String]) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func playStreamLive(contentId: Swift.String, streamStart: Swift.String, streamOffset: Swift.Int, streamId: Swift.String, customParams: [Swift.String : Swift.String]) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func playStreamLive(contentId: Swift.String, streamStart: Swift.String, streamOffset: Swift.Int, streamId: Swift.String, options: [Swift.String : Swift.String], customParams: [Swift.String : Swift.String]) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func stop() -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func stop(streamPosition: Swift.Int64) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func skip() -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func volume(volume: Swift.String) -> [Swift.String : Swift.Bool]
+  @discardableResult
+  @objc final public func screen(screen: Swift.String) -> [Swift.String : Swift.Bool]
+}
+@available(iOS 10.0, *)
+@objc public class AVPlayerVODExtension : s2s_sdk_ios_avplayer_googleAds.S2SExtension {
+  public init(avPlayerController: AVKit.AVPlayerViewController, config: s2s_sdk_ios_avplayer_googleAds.S2SConfig, contentMetadata: s2s_sdk_ios_avplayer_googleAds.ContentMetadata)
+  @available(*, deprecated)
+  public init(avPlayerController: AVKit.AVPlayerViewController, config: s2s_sdk_ios_avplayer_googleAds.S2SConfig, contentId: Swift.String, customParams: [Swift.String : Swift.String])
+  public func activateGoogleIMASupport(adsManager: GoogleInteractiveMediaAds.IMAAdsManager)
+  @objc deinit
+  override public func setParameters(contentMetadata: s2s_sdk_ios_avplayer_googleAds.ContentMetadata)
+  @available(*, deprecated)
+  @objc override public func setParameters(contentId: Swift.String, customParams: [Swift.String : Swift.String])
+}
+public typealias CollectorTPCallback = (Swift.Bool) -> Swift.Void
+final public class MD5 {
+  public init()
+  final public func calculate(for bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+extension s2s_sdk_ios_avplayer_googleAds.MD5 : s2s_sdk_ios_avplayer_googleAds.Updatable {
+  final public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+}
+@available(*, renamed: "Digest")
+public typealias Hash = s2s_sdk_ios_avplayer_googleAds.Digest
+public struct Digest {
+  public static func md5(_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+}
+@available(iOS 10.0, *)
+@objc public class AVPlayerLiveExtension : s2s_sdk_ios_avplayer_googleAds.S2SExtension {
+  public init(avPlayerController: AVKit.AVPlayerViewController, config: s2s_sdk_ios_avplayer_googleAds.S2SConfig, contentMetadata: s2s_sdk_ios_avplayer_googleAds.ContentMetadata)
+  @available(*, deprecated)
+  public init(avPlayerController: AVKit.AVPlayerViewController, config: s2s_sdk_ios_avplayer_googleAds.S2SConfig, contentId: Swift.String, customParams: [Swift.String : Swift.String])
+  public func trackAdPosition(position: Swift.Int64)
+  @objc deinit
+  @available(*, deprecated)
+  @objc override public func setParameters(contentId: Swift.String, customParams: [Swift.String : Swift.String])
+  override public func setParameters(contentMetadata: s2s_sdk_ios_avplayer_googleAds.ContentMetadata)
+  public func activateGoogleIMASupport(from event: GoogleInteractiveMediaAds.IMAAdEvent!)
+}
+@available(iOS 10.0, *)
+@objc extension s2s_sdk_ios_avplayer_googleAds.AVPlayerLiveExtension {
+  @objc dynamic public func activateGoogleIMASupport(adsManager: GoogleInteractiveMediaAds.IMAAdsManager)
+}
+public protocol Updatable {
+  mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool) throws -> Swift.Array<Swift.UInt8>
+  mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool, output: (_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+}
+extension s2s_sdk_ios_avplayer_googleAds.Updatable {
+  public mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false, output: (_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+  public mutating func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+  public mutating func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false, output: (_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  public mutating func finish(withBytes bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  public mutating func finish() throws -> Swift.Array<Swift.UInt8>
+  public mutating func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, output: (_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func finish(withBytes bytes: Swift.Array<Swift.UInt8>, output: (_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func finish(output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+}
+public class ContentMetadata {
+  public init(customParams: [Swift.String : Swift.String]?)
+  public func getContentId() -> Swift.String
+  public func getCustomParams() -> [Swift.String : Swift.String]?
+  public func getStreamStart() -> Swift.String
+  public func setContentId(contentId: Swift.String)
+  public func setStreamStart(streamStart: Swift.String)
+  public func setCustomParams(customParams: [Swift.String : Swift.String]?)
+  @objc deinit
+}
+@available(iOS 10.0, *)
+@objc public class S2SExtension : ObjectiveC.NSObject {
+  @available(*, deprecated, message: "Please use the new public API method")
+  @objc public func setParameters(contentId: Swift.String, customParams: [Swift.String : Swift.String])
+  public func setParameters(contentMetadata: s2s_sdk_ios_avplayer_googleAds.ContentMetadata)
+  @objc public func setupAdAgent()
+  public init(config: s2s_sdk_ios_avplayer_googleAds.S2SConfig, contentMetadata: s2s_sdk_ios_avplayer_googleAds.ContentMetadata)
+  @available(*, deprecated)
+  @objc public init(config: s2s_sdk_ios_avplayer_googleAds.S2SConfig, contentId: Swift.String, customParams: [Swift.String : Swift.String])
+  @objc deinit
+}

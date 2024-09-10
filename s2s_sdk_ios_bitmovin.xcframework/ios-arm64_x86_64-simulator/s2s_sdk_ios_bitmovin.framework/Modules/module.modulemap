@@ -1,0 +1,4 @@
+framework module s2s_sdk_ios_bitmovin {
+  header "s2s_sdk_ios_bitmovin-Swift.h"
+  requires objc
+}
