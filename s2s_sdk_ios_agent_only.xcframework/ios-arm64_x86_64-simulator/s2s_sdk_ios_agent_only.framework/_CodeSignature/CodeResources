@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		04SL09t9hydf+ULtjOXaK7cIw44=
+		iE07CNfWQ4MCOgOFLqASGyI+S8Y=
 		</data>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lyGsXEzOLPIJdFpM7yUa2yDvmZo=
+		Cl53DfoJl9bTeCrJq0Form6XTIE=
 		</data>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		04SL09t9hydf+ULtjOXaK7cIw44=
+		iE07CNfWQ4MCOgOFLqASGyI+S8Y=
 		</data>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+9fyVYb5c5iSt57p5AUf27HzaeA=
+		HqV06hiN8upgZLm6L4xUa96Z1HQ=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iaoDb/5F/QMHeBgYYlaAJCo7g+UYePdFlD+qpGp34/g=
+			2FKEHc/EQbrsmkg17Mm2tRe/CakUwhHc8fk0io0WB/k=
 			</data>
 		</dict>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -120,14 +120,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f3eckvLz2BSsojYDZl97BVqw1jMoF2ODVyrSzh2kXWA=
+			feucJnGDfwGpXb/4GmdYurHT4kVa9rYgKhSdvdDADIk=
 			</data>
 		</dict>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iaoDb/5F/QMHeBgYYlaAJCo7g+UYePdFlD+qpGp34/g=
+			2FKEHc/EQbrsmkg17Mm2tRe/CakUwhHc8fk0io0WB/k=
 			</data>
 		</dict>
 		<key>Modules/s2s_sdk_ios_agent_only.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nFUf5nNm8v3f5me8jxsQ2kg/v/GD2QIJ8CgGcXlZLW0=
+			I8YmN/2iREyAMeaUujn/hu3umIRWs7ZZItSYaYzPm2Y=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>

@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JoX4N4jeBN7Wmiq1FW2tB1fVAdI=
+		JLnQTaDh5jKeEKfEe9MQzNShz9Q=
 		</data>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ks2Igtp9t4rxINbawaFwQZ1T2mY=
+		nB4bKNEp+G6N3c9Bhm95uJiYnsQ=
 		</data>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JoX4N4jeBN7Wmiq1FW2tB1fVAdI=
+		JLnQTaDh5jKeEKfEe9MQzNShz9Q=
 		</data>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		i4GdHv9aDWdLGeg5+NZETPOpKWc=
+		R/QEZEzufgkpQgsiD0U6P9uK/l4=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R447JZsmAsKyzyHG2/rCkWku2QFxOdZs+OuKfVI6ljc=
+			QV3C2QmFuvI9DOcFsA+Af+NUqqHSzVcIocNY+f0bPv4=
 			</data>
 		</dict>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -120,14 +120,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Es01zhZ8NX12zPzQy0FxhGGNYFGHKXBXIWR24VPOti4=
+			FCyAXnBQFFMFiDkS4jG3stj0KYrq4fQu+ruMpzwIXUI=
 			</data>
 		</dict>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R447JZsmAsKyzyHG2/rCkWku2QFxOdZs+OuKfVI6ljc=
+			QV3C2QmFuvI9DOcFsA+Af+NUqqHSzVcIocNY+f0bPv4=
 			</data>
 		</dict>
 		<key>Modules/s2s_sdk_ios_bitmovin.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X1BzRSNg8s/7GY3W6vzZVO/JLKVfJhhY5ODFZC/KEFs=
+			ZUk95J1TnF8PLUTw773SOO01mumTTBkUedz0J2RFieM=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>

@@ -5757,1022 +5757,1022 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/RequestCommon.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/RequestCommon.swift",
       "kind": "Dictionary",
       "offset": 95,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferPlay.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferPlay.swift",
       "kind": "StringLiteral",
       "offset": 6,
       "length": 10,
       "value": "\"s2s_sdk_ios_bitmovin.BufferPlay\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/StreamOptions.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/StreamOptions.swift",
       "kind": "StringLiteral",
       "offset": 173,
       "length": 8,
       "value": "\"screen\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/StreamOptions.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/StreamOptions.swift",
       "kind": "StringLiteral",
       "offset": 214,
       "length": 8,
       "value": "\"volume\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/StreamOptions.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/StreamOptions.swift",
       "kind": "StringLiteral",
       "offset": 254,
       "length": 7,
       "value": "\"speed\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Utils\/CountDownLock.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Utils\/CountDownLock.swift",
       "kind": "IntegerLiteral",
       "offset": 237,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferStop.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferStop.swift",
       "kind": "StringLiteral",
       "offset": 6,
       "length": 10,
       "value": "\"s2s_sdk_ios_bitmovin.BufferStop\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 434,
       "length": 4,
       "value": "\"cd\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 463,
       "length": 4,
       "value": "\"lt\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 494,
       "length": 4,
       "value": "\"dt\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 530,
       "length": 3,
       "value": "\"o\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 4,
       "value": "\"ai\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 596,
       "length": 3,
       "value": "\"t\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 434,
       "length": 4,
       "value": "\"cd\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 463,
       "length": 4,
       "value": "\"lt\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 494,
       "length": 4,
       "value": "\"dt\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 530,
       "length": 3,
       "value": "\"o\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 4,
       "value": "\"ai\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/OldSui.swift",
       "kind": "StringLiteral",
       "offset": 596,
       "length": 3,
       "value": "\"t\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 266,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 311,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 353,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 428,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "StringLiteral",
       "offset": 474,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "StringLiteral",
       "offset": 512,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 554,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 593,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 639,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 679,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 780,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 817,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "FloatLiteral",
       "offset": 910,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/SegmentBuilder.swift",
       "kind": "StringLiteral",
       "offset": 1607,
       "length": 5,
       "value": "\"1.0\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Log\/SentryLogger.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Log\/SentryLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 124,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDGen.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDGen.swift",
       "kind": "IntegerLiteral",
       "offset": 146,
       "length": 2,
       "value": "56"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventPlay.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventPlay.swift",
       "kind": "StringLiteral",
       "offset": 25,
       "length": 9,
       "value": "\"s2s_sdk_ios_bitmovin.EventPlay\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventVolume.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventVolume.swift",
       "kind": "StringLiteral",
       "offset": 25,
       "length": 11,
       "value": "\"s2s_sdk_ios_bitmovin.EventVolume\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Processor\/Processor.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Processor\/Processor.swift",
       "kind": "FloatLiteral",
       "offset": 95,
       "length": 4,
       "value": "20.0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Processor\/Processor.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Processor\/Processor.swift",
       "kind": "BooleanLiteral",
       "offset": 595,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Processor\/Processor.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Processor\/Processor.swift",
       "kind": "BooleanLiteral",
       "offset": 626,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Utils.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Utils.swift",
       "kind": "IntegerLiteral",
       "offset": 1447,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventHeartbeat.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventHeartbeat.swift",
       "kind": "StringLiteral",
       "offset": 25,
       "length": 14,
       "value": "\"s2s_sdk_ios_bitmovin.EventHeartbeat\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/RequestHeartbeat.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Request\/RequestHeartbeat.swift",
       "kind": "BooleanLiteral",
       "offset": 193,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SConfig.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 310,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SConfig.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 371,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SConfig.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SConfig.swift",
       "kind": "StringLiteral",
       "offset": 95,
       "length": 9,
       "value": "\"s2s_sdk_ios_bitmovin.S2SConfig\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferScreen.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferScreen.swift",
       "kind": "StringLiteral",
       "offset": 6,
       "length": 12,
       "value": "\"s2s_sdk_ios_bitmovin.BufferScreen\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/BufferBuilder.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/BufferBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 101,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
       "kind": "IntegerLiteral",
       "offset": 74,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
       "kind": "IntegerLiteral",
       "offset": 289,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
       "kind": "IntegerLiteral",
       "offset": 326,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Heartbeat\/Heartbeat.swift",
       "kind": "BooleanLiteral",
       "offset": 361,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferBase.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferBase.swift",
       "kind": "StringLiteral",
       "offset": 6,
       "length": 10,
       "value": "\"s2s_sdk_ios_bitmovin.BufferBase\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "StringLiteral",
       "offset": 161,
       "length": 11,
       "value": "\"contentId\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 10,
       "value": "\"streamId\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "StringLiteral",
       "offset": 240,
       "length": 14,
       "value": "\"customParams\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "StringLiteral",
       "offset": 284,
       "length": 13,
       "value": "\"streamStart\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 2194,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 3163,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 4147,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 5146,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 6147,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 7265,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 8404,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "BooleanLiteral",
       "offset": 9530,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "IntegerLiteral",
       "offset": 10431,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SAgent\/S2SAgent.swift",
       "kind": "StringLiteral",
       "offset": 454,
       "length": 8,
       "value": "\"s2s_sdk_ios_bitmovin.S2SAgent\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferSkip.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferSkip.swift",
       "kind": "StringLiteral",
       "offset": 6,
       "length": 10,
       "value": "\"s2s_sdk_ios_bitmovin.BufferSkip\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 8,
       "value": "\"TABLET\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 12,
       "value": "\"SMARTPHONE\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 9,
       "value": "\"UNKNOWN\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 329,
       "length": 9,
       "value": "\"APPLETV\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 368,
       "length": 14,
       "value": "\"TV-MIRRORING\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 495,
       "length": 5,
       "value": "\"APP\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 531,
       "length": 44,
       "value": "\"https:\/\/<instanceid>.trk.sensic.net\/tp.gif\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "BooleanLiteral",
       "offset": 656,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 700,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "StringLiteral",
       "offset": 746,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "IntegerLiteral",
       "offset": 3258,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "IntegerLiteral",
       "offset": 3263,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Collector.swift",
       "kind": "IntegerLiteral",
       "offset": 3418,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferImpression.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferImpression.swift",
       "kind": "StringLiteral",
       "offset": 6,
       "length": 16,
       "value": "\"s2s_sdk_ios_bitmovin.BufferImpression\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 371,
       "length": 16,
       "value": "\"sensic-sdk-ios\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 430,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1573,
       "length": 12,
       "value": "\"instanceid\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1607,
       "length": 8,
       "value": "\"sui_ac\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1640,
       "length": 12,
       "value": "\"sui_old_ac\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1674,
       "length": 10,
       "value": "\"external\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1714,
       "length": 4,
       "value": "\"ai\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1754,
       "length": 4,
       "value": "\"vi\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1573,
       "length": 12,
       "value": "\"instanceid\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1607,
       "length": 8,
       "value": "\"sui_ac\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1640,
       "length": 12,
       "value": "\"sui_old_ac\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1674,
       "length": 10,
       "value": "\"external\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1714,
       "length": 4,
       "value": "\"ai\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/IDRequest\/IDRequestBody.swift",
       "kind": "StringLiteral",
       "offset": 1754,
       "length": 4,
       "value": "\"vi\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/utils\/HTTPClient.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/utils\/HTTPClient.swift",
       "kind": "IntegerLiteral",
       "offset": 1251,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/utils\/HTTPClient.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/utils\/HTTPClient.swift",
       "kind": "BooleanLiteral",
       "offset": 2047,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventImpression.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventImpression.swift",
       "kind": "StringLiteral",
       "offset": 25,
       "length": 15,
       "value": "\"s2s_sdk_ios_bitmovin.EventImpression\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "StringLiteral",
       "offset": 87,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "StringLiteral",
       "offset": 123,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "StringLiteral",
       "offset": 156,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "StringLiteral",
       "offset": 191,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "StringLiteral",
       "offset": 250,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "StringLiteral",
       "offset": 306,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "Array",
       "offset": 342,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Collector\/Config.swift",
       "kind": "Array",
       "offset": 379,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
       "kind": "FloatLiteral",
       "offset": 97,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
       "kind": "FloatLiteral",
       "offset": 120,
       "length": 4,
       "value": "32.0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
       "kind": "FloatLiteral",
       "offset": 148,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Transmitter\/ExpBackoffTransmitter.swift",
       "kind": "BooleanLiteral",
       "offset": 240,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
       "kind": "IntegerLiteral",
       "offset": 983,
       "length": 2,
       "value": "64"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
       "kind": "IntegerLiteral",
       "offset": 1019,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
       "kind": "Array",
       "offset": 1092,
       "length": 48,
       "value": "[0x67452301, 0xefcdab89, 0x98badcfe, 0x10325476]"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
       "kind": "IntegerLiteral",
       "offset": 1239,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
       "kind": "Array",
       "offset": 1394,
       "length": 256,
       "value": "[7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20, 4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23, 6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21]"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
       "kind": "Array",
       "offset": 1749,
       "length": 834,
       "value": "[0xd76aa478, 0xe8c7b756, 0x242070db, 0xc1bdceee, 0xf57c0faf, 0x4787c62a, 0xa8304613, 0xfd469501, 0x698098d8, 0x8b44f7af, 0xffff5bb1, 0x895cd7be, 0x6b901122, 0xfd987193, 0xa679438e, 0x49b40821, 0xf61e2562, 0xc040b340, 0x265e5a51, 0xe9b6c7aa, 0xd62f105d, 0x2441453, 0xd8a1e681, 0xe7d3fbc8, 0x21e1cde6, 0xc33707d6, 0xf4d50d87, 0x455a14ed, 0xa9e3e905, 0xfcefa3f8, 0x676f02d9, 0x8d2a4c8a, 0xfffa3942, 0x8771f681, 0x6d9d6122, 0xfde5380c, 0xa4beea44, 0x4bdecfa9, 0xf6bb4b60, 0xbebfbc70, 0x289b7ec6, 0xeaa127fa, 0xd4ef3085, 0x4881d05, 0xd9d4d039, 0xe6db99e5, 0x1fa27cf8, 0xc4ac5665, 0xf4292244, 0x432aff97, 0xab9423a7, 0xfc93a039, 0x655b59c3, 0x8f0ccc92, 0xffeff47d, 0x85845dd1, 0x6fa87e4f, 0xfe2ce6e0, 0xa3014314, 0x4e0811a1, 0xf7537e82, 0xbd3af235, 0x2ad7d2bb, 0xeb86d391]"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/MD5.swift",
       "kind": "BooleanLiteral",
       "offset": 4452,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventScreen.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Event\/EventScreen.swift",
       "kind": "StringLiteral",
       "offset": 25,
       "length": 11,
       "value": "\"s2s_sdk_ios_bitmovin.EventScreen\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "IntegerLiteral",
       "offset": 174,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "FloatLiteral",
       "offset": 219,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "BooleanLiteral",
       "offset": 283,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "BooleanLiteral",
       "offset": 329,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "BooleanLiteral",
       "offset": 375,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "BooleanLiteral",
       "offset": 405,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "BooleanLiteral",
       "offset": 439,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "FloatLiteral",
       "offset": 495,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "BooleanLiteral",
       "offset": 542,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "IntegerLiteral",
       "offset": 583,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "FloatLiteral",
       "offset": 622,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "StringLiteral",
       "offset": 64,
       "length": 23,
       "value": "\"s2s_sdk_ios_bitmovin.BitmovinPlayerExtension\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/BitmovinExtension\/BitmovinPlayerExtension.swift",
       "kind": "StringLiteral",
       "offset": 64,
       "length": 23,
       "value": "\"s2s_sdk_ios_bitmovin.BitmovinPlayerExtension\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
       "kind": "BooleanLiteral",
       "offset": 1945,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
       "kind": "BooleanLiteral",
       "offset": 2211,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
       "kind": "BooleanLiteral",
       "offset": 2378,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/CryptoSwift\/Updatable.swift",
       "kind": "BooleanLiteral",
       "offset": 2551,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/ItemValidator\/ItemValidator.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/ItemValidator\/ItemValidator.swift",
       "kind": "IntegerLiteral",
       "offset": 299,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/ItemValidator\/ItemValidator.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/ItemValidator\/ItemValidator.swift",
       "kind": "BooleanLiteral",
       "offset": 369,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/ItemValidator\/ItemValidator.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/ItemValidator\/ItemValidator.swift",
       "kind": "IntegerLiteral",
       "offset": 405,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Log\/SensicSentrySDK.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Log\/SensicSentrySDK.swift",
       "kind": "BooleanLiteral",
       "offset": 155,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
       "kind": "IntegerLiteral",
       "offset": 395,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
       "kind": "StringLiteral",
       "offset": 571,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/S2SExtension\/S2SExtension.swift",
       "kind": "StringLiteral",
       "offset": 105,
       "length": 12,
       "value": "\"s2s_sdk_ios_bitmovin.S2SExtension\""
     },
     {
-      "filePath": "\/Users\/Kristiyan.Kornazov\/Documents\/Developer\/noSentry\/s2s-sdk-ios\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferVolume.swift",
+      "filePath": "\/Users\/bamboo\/bamboo-agent-home\/xml-data\/build-dir\/DAM-S2SIOS-BSSX\/s2s-sdk-ios\/s2s-sdk-ios\/Builder\/Buffer\/BufferVolume.swift",
       "kind": "StringLiteral",
       "offset": 6,
       "length": 12,
