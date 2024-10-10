@@ -1,4 +1,0 @@
-framework module s2s_sdk_ios_agent_only {
-  header "s2s_sdk_ios_agent_only-Swift.h"
-  requires objc
-}

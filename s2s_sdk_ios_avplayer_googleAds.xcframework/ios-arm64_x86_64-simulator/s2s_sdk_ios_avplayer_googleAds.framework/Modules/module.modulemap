@@ -1,4 +1,0 @@
-framework module s2s_sdk_ios_avplayer_googleAds {
-  header "s2s_sdk_ios_avplayer_googleAds-Swift.h"
-  requires objc
-}
