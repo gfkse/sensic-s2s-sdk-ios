@@ -15,15 +15,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "s2s_sdk_ios_avplayer_googleAds",
-            path: "./s2s_sdk_ios_avplayer_googleAds.xcframework"
+            url: "https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/1.20.2/s2s_sdk_ios_avplayer_googleAds.zip",
+            checksum: "32d95af61c947a6c60d42108c6c26caa38259f6b7928ef148113c51b34a93c8a"
         ),
         .binaryTarget(
             name: "s2s_sdk_ios_bitmovin",
-            path: "./s2s_sdk_ios_bitmovin.xcframework"
+            url: "https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/1.20.2/s2s_sdk_ios_bitmovin.zip",
+            checksum: "2145dc4c2cda72616d8e687bc6fa4ec0eb9ba99b85201f78121f556bee746c13"
         ),
         .binaryTarget(
             name: "s2s_sdk_ios_agent_only",
-            path: "./s2s_sdk_ios_agent_only.xcframework"
+            url: "https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/1.20.2/s2s_sdk_ios_agent_only.zip",
+            checksum: "11f4b123b8ebbb26944fa0750a5445273b34f2f45b9b44894a96f0c1b89ac17e"
         ),
     ]
 )
